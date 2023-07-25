@@ -1,0 +1,10 @@
+* bitfield
+
+Efficiently represent several finite sets or small integers as a single non-negative integer.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/marcoheisig/bitfield.git   |
+| commit  | 3c4e7da  |
+| systems | bitfield |
+|---------+-------------------------------------------|
+
