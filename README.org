@@ -8,4 +8,4 @@ Efficiently represent several finite sets or small integers as a single non-nega
 | systems | bitfield |
 |---------+-------------------------------------------|
 
- 
+  
